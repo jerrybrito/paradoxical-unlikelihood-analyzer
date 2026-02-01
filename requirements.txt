@@ -1,0 +1,2 @@
+# Requires: post-impossibility
+# (Not available on PyPI)
